@@ -12,7 +12,7 @@ package ut5pruebarecuperacionzamarareyes;
 public class Ordenador {
     
     private String cpu;
-    private String memoria;
+    private String ram;
     private String resolucionPantalla;
     
 }
